@@ -1,0 +1,902 @@
+[
+    {
+      "id": 0,
+      "title": "Web-dev",
+      "type": "Freelancer",
+      "company": "PORTALIS",
+      "email": "figueroawong@portalis.com",
+      "phone": "+213 (927) 587-2024",
+      "address": "Masacara"
+    },
+    {
+      "id": 1,
+      "title": "full-stack-dev",
+      "type": "Full-time",
+      "company": "ORBIXTAR",
+      "email": "figueroawong@orbixtar.com",
+      "phone": "+213 (828) 447-2384",
+      "address": "Telemsan"
+    },
+    {
+      "id": 2,
+      "title": "full-stack-dev",
+      "type": "Part-time",
+      "company": "EXOSTREAM",
+      "email": "figueroawong@exostream.com",
+      "phone": "+213 (850) 451-2809",
+      "address": "Masacara"
+    },
+    {
+      "id": 3,
+      "title": "backend-dev",
+      "type": "Remote",
+      "company": "OTHERSIDE",
+      "email": "figueroawong@otherside.com",
+      "phone": "+213 (838) 486-3523",
+      "address": "Mostaganem"
+    },
+    {
+      "id": 4,
+      "title": "front-end-dev",
+      "type": "Free-time",
+      "company": "KAGGLE",
+      "email": "figueroawong@kaggle.com",
+      "phone": "+213 (962) 453-2365",
+      "address": "Setif"
+    },
+    {
+      "id": 5,
+      "title": "Architect",
+      "type": "Freelancer",
+      "company": "UPDAT",
+      "email": "figueroawong@updat.com",
+      "phone": "+213 (896) 456-2730",
+      "address": "Alger"
+    },
+    {
+      "id": 6,
+      "title": "Architect",
+      "type": "Part-time",
+      "company": "EARTHPLEX",
+      "email": "figueroawong@earthplex.com",
+      "phone": "+213 (851) 598-2320",
+      "address": "Alger"
+    },
+    {
+      "id": 7,
+      "title": "App-dev",
+      "type": "Freelancer",
+      "company": "COMVEYER",
+      "email": "figueroawong@comveyer.com",
+      "phone": "+213 (878) 527-3757",
+      "address": "Mostaganem"
+    },
+    {
+      "id": 8,
+      "title": "App-dev",
+      "type": "Remote",
+      "company": "ZIGGLES",
+      "email": "figueroawong@ziggles.com",
+      "phone": "+213 (886) 506-3370",
+      "address": "Alger"
+    },
+    {
+      "id": 9,
+      "title": "full-stack-dev",
+      "type": "Part-time",
+      "company": "KEENGEN",
+      "email": "figueroawong@keengen.com",
+      "phone": "+213 (897) 517-3197",
+      "address": "Telemsan"
+    },
+    {
+      "id": 10,
+      "title": "full-stack-dev",
+      "type": "Remote",
+      "company": "HONOTRON",
+      "email": "figueroawong@honotron.com",
+      "phone": "+213 (954) 425-2067",
+      "address": "Mostaganem"
+    },
+    {
+      "id": 11,
+      "title": "front-end-dev",
+      "type": "Full-time",
+      "company": "EMERGENT",
+      "email": "figueroawong@emergent.com",
+      "phone": "+213 (804) 502-3831",
+      "address": "Masacara"
+    },
+    {
+      "id": 12,
+      "title": "Web-dev",
+      "type": "Remote",
+      "company": "IMMUNICS",
+      "email": "figueroawong@immunics.com",
+      "phone": "+213 (800) 514-2480",
+      "address": "Masacara"
+    },
+    {
+      "id": 13,
+      "title": "App-dev",
+      "type": "Remote",
+      "company": "POOCHIES",
+      "email": "figueroawong@poochies.com",
+      "phone": "+213 (802) 557-3497",
+      "address": "Oran"
+    },
+    {
+      "id": 14,
+      "title": "Architect",
+      "type": "Full-time",
+      "company": "POWERNET",
+      "email": "figueroawong@powernet.com",
+      "phone": "+213 (869) 587-2031",
+      "address": "Alger"
+    },
+    {
+      "id": 15,
+      "title": "backend-dev",
+      "type": "Free-time",
+      "company": "BEZAL",
+      "email": "figueroawong@bezal.com",
+      "phone": "+213 (875) 499-3749",
+      "address": "Alger"
+    },
+    {
+      "id": 16,
+      "title": "backend-dev",
+      "type": "Part-time",
+      "company": "AUTOGRATE",
+      "email": "figueroawong@autograte.com",
+      "phone": "+213 (972) 532-3324",
+      "address": "Setif"
+    },
+    {
+      "id": 17,
+      "title": "Architect",
+      "type": "Part-time",
+      "company": "XLEEN",
+      "email": "figueroawong@xleen.com",
+      "phone": "+213 (855) 454-3265",
+      "address": "Masacara"
+    },
+    {
+      "id": 18,
+      "title": "App-dev",
+      "type": "Freelancer",
+      "company": "VIXO",
+      "email": "figueroawong@vixo.com",
+      "phone": "+213 (977) 463-3765",
+      "address": "Masacara"
+    },
+    {
+      "id": 19,
+      "title": "App-dev",
+      "type": "Full-time",
+      "company": "ENDICIL",
+      "email": "figueroawong@endicil.com",
+      "phone": "+213 (814) 467-2523",
+      "address": "Oran"
+    },
+    {
+      "id": 20,
+      "title": "front-end-dev",
+      "type": "Full-time",
+      "company": "PUSHCART",
+      "email": "figueroawong@pushcart.com",
+      "phone": "+213 (991) 436-3088",
+      "address": "Mostaganem"
+    },
+    {
+      "id": 21,
+      "title": "App-dev",
+      "type": "Full-time",
+      "company": "LOVEPAD",
+      "email": "figueroawong@lovepad.com",
+      "phone": "+213 (886) 594-3518",
+      "address": "Masacara"
+    },
+    {
+      "id": 22,
+      "title": "backend-dev",
+      "type": "Full-time",
+      "company": "PLASMOS",
+      "email": "figueroawong@plasmos.com",
+      "phone": "+213 (973) 559-3910",
+      "address": "Setif"
+    },
+    {
+      "id": 23,
+      "title": "App-dev",
+      "type": "Freelancer",
+      "company": "ZIORE",
+      "email": "figueroawong@ziore.com",
+      "phone": "+213 (933) 480-3352",
+      "address": "Setif"
+    },
+    {
+      "id": 24,
+      "title": "Web-dev",
+      "type": "Freelancer",
+      "company": "DIGIAL",
+      "email": "figueroawong@digial.com",
+      "phone": "+213 (969) 496-3325",
+      "address": "Mostaganem"
+    },
+    {
+      "id": 25,
+      "title": "backend-dev",
+      "type": "Part-time",
+      "company": "PREMIANT",
+      "email": "figueroawong@premiant.com",
+      "phone": "+213 (956) 449-2171",
+      "address": "Masacara"
+    },
+    {
+      "id": 26,
+      "title": "Architect",
+      "type": "Full-time",
+      "company": "ATOMICA",
+      "email": "figueroawong@atomica.com",
+      "phone": "+213 (911) 546-2082",
+      "address": "Alger"
+    },
+    {
+      "id": 27,
+      "title": "full-stack-dev",
+      "type": "Free-time",
+      "company": "ZILLAR",
+      "email": "figueroawong@zillar.com",
+      "phone": "+213 (996) 495-2694",
+      "address": "Alger"
+    },
+    {
+      "id": 28,
+      "title": "App-dev",
+      "type": "Free-time",
+      "company": "ASSURITY",
+      "email": "figueroawong@assurity.com",
+      "phone": "+213 (973) 478-2350",
+      "address": "Telemsan"
+    },
+    {
+      "id": 29,
+      "title": "backend-dev",
+      "type": "Part-time",
+      "company": "FUELWORKS",
+      "email": "figueroawong@fuelworks.com",
+      "phone": "+213 (845) 439-2491",
+      "address": "Setif"
+    },
+    {
+      "id": 30,
+      "title": "Architect",
+      "type": "Full-time",
+      "company": "ENTOGROK",
+      "email": "figueroawong@entogrok.com",
+      "phone": "+213 (835) 518-2577",
+      "address": "Telemsan"
+    },
+    {
+      "id": 31,
+      "title": "backend-dev",
+      "type": "Full-time",
+      "company": "CENTURIA",
+      "email": "figueroawong@centuria.com",
+      "phone": "+213 (924) 524-3216",
+      "address": "Masacara"
+    },
+    {
+      "id": 32,
+      "title": "Web-dev",
+      "type": "Full-time",
+      "company": "CYTREK",
+      "email": "figueroawong@cytrek.com",
+      "phone": "+213 (827) 514-3143",
+      "address": "Telemsan"
+    },
+    {
+      "id": 33,
+      "title": "front-end-dev",
+      "type": "Full-time",
+      "company": "BITREX",
+      "email": "figueroawong@bitrex.com",
+      "phone": "+213 (883) 502-3028",
+      "address": "Setif"
+    },
+    {
+      "id": 34,
+      "title": "Architect",
+      "type": "Free-time",
+      "company": "PHOLIO",
+      "email": "figueroawong@pholio.com",
+      "phone": "+213 (982) 422-3766",
+      "address": "Alger"
+    },
+    {
+      "id": 35,
+      "title": "backend-dev",
+      "type": "Part-time",
+      "company": "MONDICIL",
+      "email": "figueroawong@mondicil.com",
+      "phone": "+213 (898) 444-3135",
+      "address": "Setif"
+    },
+    {
+      "id": 36,
+      "title": "full-stack-dev",
+      "type": "Free-time",
+      "company": "PORTICA",
+      "email": "figueroawong@portica.com",
+      "phone": "+213 (975) 535-3205",
+      "address": "Alger"
+    },
+    {
+      "id": 37,
+      "title": "front-end-dev",
+      "type": "Freelancer",
+      "company": "VENDBLEND",
+      "email": "figueroawong@vendblend.com",
+      "phone": "+213 (865) 490-3592",
+      "address": "Oran"
+    },
+    {
+      "id": 38,
+      "title": "front-end-dev",
+      "type": "Freelancer",
+      "company": "MEDIOT",
+      "email": "figueroawong@mediot.com",
+      "phone": "+213 (994) 459-2337",
+      "address": "Oran"
+    },
+    {
+      "id": 39,
+      "title": "full-stack-dev",
+      "type": "Free-time",
+      "company": "SAVVY",
+      "email": "figueroawong@savvy.com",
+      "phone": "+213 (975) 447-3294",
+      "address": "Telemsan"
+    },
+    {
+      "id": 40,
+      "title": "front-end-dev",
+      "type": "Part-time",
+      "company": "HAWKSTER",
+      "email": "figueroawong@hawkster.com",
+      "phone": "+213 (913) 595-3670",
+      "address": "Setif"
+    },
+    {
+      "id": 41,
+      "title": "Architect",
+      "type": "Free-time",
+      "company": "SKINSERVE",
+      "email": "figueroawong@skinserve.com",
+      "phone": "+213 (825) 583-3863",
+      "address": "Setif"
+    },
+    {
+      "id": 42,
+      "title": "full-stack-dev",
+      "type": "Freelancer",
+      "company": "LUXURIA",
+      "email": "figueroawong@luxuria.com",
+      "phone": "+213 (908) 583-2891",
+      "address": "Oran"
+    },
+    {
+      "id": 43,
+      "title": "Architect",
+      "type": "Free-time",
+      "company": "EMOLTRA",
+      "email": "figueroawong@emoltra.com",
+      "phone": "+213 (895) 534-2966",
+      "address": "Alger"
+    },
+    {
+      "id": 44,
+      "title": "Web-dev",
+      "type": "Part-time",
+      "company": "WEBIOTIC",
+      "email": "figueroawong@webiotic.com",
+      "phone": "+213 (953) 520-3052",
+      "address": "Masacara"
+    },
+    {
+      "id": 45,
+      "title": "Web-dev",
+      "type": "Full-time",
+      "company": "BEDDER",
+      "email": "figueroawong@bedder.com",
+      "phone": "+213 (904) 579-3873",
+      "address": "Mostaganem"
+    },
+    {
+      "id": 46,
+      "title": "App-dev",
+      "type": "Free-time",
+      "company": "SULTRAXIN",
+      "email": "figueroawong@sultraxin.com",
+      "phone": "+213 (915) 475-2818",
+      "address": "Setif"
+    },
+    {
+      "id": 47,
+      "title": "App-dev",
+      "type": "Part-time",
+      "company": "ECSTASIA",
+      "email": "figueroawong@ecstasia.com",
+      "phone": "+213 (965) 403-3114",
+      "address": "Mostaganem"
+    },
+    {
+      "id": 48,
+      "title": "Web-dev",
+      "type": "Full-time",
+      "company": "MANGLO",
+      "email": "figueroawong@manglo.com",
+      "phone": "+213 (869) 506-3064",
+      "address": "Oran"
+    },
+    {
+      "id": 49,
+      "title": "front-end-dev",
+      "type": "Remote",
+      "company": "ESSENSIA",
+      "email": "figueroawong@essensia.com",
+      "phone": "+213 (916) 572-3847",
+      "address": "Masacara"
+    },
+    {
+      "id": 50,
+      "title": "backend-dev",
+      "type": "Free-time",
+      "company": "UBERLUX",
+      "email": "figueroawong@uberlux.com",
+      "phone": "+213 (997) 491-3304",
+      "address": "Masacara"
+    },
+    {
+      "id": 51,
+      "title": "full-stack-dev",
+      "type": "Part-time",
+      "company": "CUBIX",
+      "email": "figueroawong@cubix.com",
+      "phone": "+213 (906) 590-2951",
+      "address": "Oran"
+    },
+    {
+      "id": 52,
+      "title": "front-end-dev",
+      "type": "Remote",
+      "company": "TROPOLIS",
+      "email": "figueroawong@tropolis.com",
+      "phone": "+213 (951) 473-2225",
+      "address": "Oran"
+    },
+    {
+      "id": 53,
+      "title": "full-stack-dev",
+      "type": "Remote",
+      "company": "OLYMPIX",
+      "email": "figueroawong@olympix.com",
+      "phone": "+213 (805) 473-3414",
+      "address": "Masacara"
+    },
+    {
+      "id": 54,
+      "title": "backend-dev",
+      "type": "Full-time",
+      "company": "ADORNICA",
+      "email": "figueroawong@adornica.com",
+      "phone": "+213 (896) 467-2457",
+      "address": "Setif"
+    },
+    {
+      "id": 55,
+      "title": "Architect",
+      "type": "Part-time",
+      "company": "QNEKT",
+      "email": "figueroawong@qnekt.com",
+      "phone": "+213 (881) 577-2000",
+      "address": "Mostaganem"
+    },
+    {
+      "id": 56,
+      "title": "Web-dev",
+      "type": "Freelancer",
+      "company": "TASMANIA",
+      "email": "figueroawong@tasmania.com",
+      "phone": "+213 (942) 495-3143",
+      "address": "Mostaganem"
+    },
+    {
+      "id": 57,
+      "title": "front-end-dev",
+      "type": "Full-time",
+      "company": "SULTRAX",
+      "email": "figueroawong@sultrax.com",
+      "phone": "+213 (906) 487-2234",
+      "address": "Masacara"
+    },
+    {
+      "id": 58,
+      "title": "front-end-dev",
+      "type": "Full-time",
+      "company": "INTRADISK",
+      "email": "figueroawong@intradisk.com",
+      "phone": "+213 (929) 512-3257",
+      "address": "Masacara"
+    },
+    {
+      "id": 59,
+      "title": "front-end-dev",
+      "type": "Freelancer",
+      "company": "ECRATIC",
+      "email": "figueroawong@ecratic.com",
+      "phone": "+213 (823) 455-2123",
+      "address": "Telemsan"
+    },
+    {
+      "id": 60,
+      "title": "front-end-dev",
+      "type": "Full-time",
+      "company": "OULU",
+      "email": "figueroawong@oulu.com",
+      "phone": "+213 (873) 400-3551",
+      "address": "Mostaganem"
+    },
+    {
+      "id": 61,
+      "title": "Architect",
+      "type": "Freelancer",
+      "company": "UNISURE",
+      "email": "figueroawong@unisure.com",
+      "phone": "+213 (914) 486-2223",
+      "address": "Oran"
+    },
+    {
+      "id": 62,
+      "title": "App-dev",
+      "type": "Full-time",
+      "company": "LIQUICOM",
+      "email": "figueroawong@liquicom.com",
+      "phone": "+213 (926) 593-2773",
+      "address": "Setif"
+    },
+    {
+      "id": 63,
+      "title": "Web-dev",
+      "type": "Remote",
+      "company": "SYNTAC",
+      "email": "figueroawong@syntac.com",
+      "phone": "+213 (882) 536-3640",
+      "address": "Alger"
+    },
+    {
+      "id": 64,
+      "title": "full-stack-dev",
+      "type": "Freelancer",
+      "company": "SPRINGBEE",
+      "email": "figueroawong@springbee.com",
+      "phone": "+213 (954) 443-2632",
+      "address": "Masacara"
+    },
+    {
+      "id": 65,
+      "title": "backend-dev",
+      "type": "Full-time",
+      "company": "ZENTILITY",
+      "email": "figueroawong@zentility.com",
+      "phone": "+213 (950) 477-3157",
+      "address": "Telemsan"
+    },
+    {
+      "id": 66,
+      "title": "full-stack-dev",
+      "type": "Freelancer",
+      "company": "KYAGURU",
+      "email": "figueroawong@kyaguru.com",
+      "phone": "+213 (885) 447-2587",
+      "address": "Telemsan"
+    },
+    {
+      "id": 67,
+      "title": "App-dev",
+      "type": "Remote",
+      "company": "QUILM",
+      "email": "figueroawong@quilm.com",
+      "phone": "+213 (945) 504-2747",
+      "address": "Mostaganem"
+    },
+    {
+      "id": 68,
+      "title": "backend-dev",
+      "type": "Free-time",
+      "company": "NETILITY",
+      "email": "figueroawong@netility.com",
+      "phone": "+213 (908) 495-3292",
+      "address": "Masacara"
+    },
+    {
+      "id": 69,
+      "title": "front-end-dev",
+      "type": "Free-time",
+      "company": "PAWNAGRA",
+      "email": "figueroawong@pawnagra.com",
+      "phone": "+213 (830) 471-3636",
+      "address": "Telemsan"
+    },
+    {
+      "id": 70,
+      "title": "front-end-dev",
+      "type": "Free-time",
+      "company": "INSURETY",
+      "email": "figueroawong@insurety.com",
+      "phone": "+213 (805) 578-2070",
+      "address": "Mostaganem"
+    },
+    {
+      "id": 71,
+      "title": "Architect",
+      "type": "Free-time",
+      "company": "EARWAX",
+      "email": "figueroawong@earwax.com",
+      "phone": "+213 (861) 486-2771",
+      "address": "Alger"
+    },
+    {
+      "id": 72,
+      "title": "Architect",
+      "type": "Full-time",
+      "company": "SCHOOLIO",
+      "email": "figueroawong@schoolio.com",
+      "phone": "+213 (853) 491-2594",
+      "address": "Alger"
+    },
+    {
+      "id": 73,
+      "title": "Web-dev",
+      "type": "Free-time",
+      "company": "ZOLAR",
+      "email": "figueroawong@zolar.com",
+      "phone": "+213 (855) 512-3644",
+      "address": "Setif"
+    },
+    {
+      "id": 74,
+      "title": "Web-dev",
+      "type": "Full-time",
+      "company": "HOMETOWN",
+      "email": "figueroawong@hometown.com",
+      "phone": "+213 (801) 503-3787",
+      "address": "Oran"
+    },
+    {
+      "id": 75,
+      "title": "Architect",
+      "type": "Free-time",
+      "company": "DOGSPA",
+      "email": "figueroawong@dogspa.com",
+      "phone": "+213 (965) 440-3670",
+      "address": "Setif"
+    },
+    {
+      "id": 76,
+      "title": "App-dev",
+      "type": "Free-time",
+      "company": "OVERFORK",
+      "email": "figueroawong@overfork.com",
+      "phone": "+213 (948) 537-3729",
+      "address": "Setif"
+    },
+    {
+      "id": 77,
+      "title": "front-end-dev",
+      "type": "Part-time",
+      "company": "LUDAK",
+      "email": "figueroawong@ludak.com",
+      "phone": "+213 (998) 553-3857",
+      "address": "Masacara"
+    },
+    {
+      "id": 78,
+      "title": "App-dev",
+      "type": "Remote",
+      "company": "PETICULAR",
+      "email": "figueroawong@peticular.com",
+      "phone": "+213 (901) 567-3854",
+      "address": "Masacara"
+    },
+    {
+      "id": 79,
+      "title": "full-stack-dev",
+      "type": "Remote",
+      "company": "COMTOUR",
+      "email": "figueroawong@comtour.com",
+      "phone": "+213 (995) 576-2163",
+      "address": "Setif"
+    },
+    {
+      "id": 80,
+      "title": "Web-dev",
+      "type": "Part-time",
+      "company": "FRENEX",
+      "email": "figueroawong@frenex.com",
+      "phone": "+213 (803) 464-2074",
+      "address": "Mostaganem"
+    },
+    {
+      "id": 81,
+      "title": "full-stack-dev",
+      "type": "Remote",
+      "company": "ISOSPHERE",
+      "email": "figueroawong@isosphere.com",
+      "phone": "+213 (894) 594-2118",
+      "address": "Oran"
+    },
+    {
+      "id": 82,
+      "title": "Web-dev",
+      "type": "Full-time",
+      "company": "KNOWLYSIS",
+      "email": "figueroawong@knowlysis.com",
+      "phone": "+213 (940) 522-2903",
+      "address": "Setif"
+    },
+    {
+      "id": 83,
+      "title": "backend-dev",
+      "type": "Freelancer",
+      "company": "EARGO",
+      "email": "figueroawong@eargo.com",
+      "phone": "+213 (811) 507-2384",
+      "address": "Telemsan"
+    },
+    {
+      "id": 84,
+      "title": "App-dev",
+      "type": "Free-time",
+      "company": "TURNLING",
+      "email": "figueroawong@turnling.com",
+      "phone": "+213 (955) 507-2870",
+      "address": "Alger"
+    },
+    {
+      "id": 85,
+      "title": "App-dev",
+      "type": "Full-time",
+      "company": "COASH",
+      "email": "figueroawong@coash.com",
+      "phone": "+213 (951) 594-3477",
+      "address": "Telemsan"
+    },
+    {
+      "id": 86,
+      "title": "full-stack-dev",
+      "type": "Full-time",
+      "company": "FIREWAX",
+      "email": "figueroawong@firewax.com",
+      "phone": "+213 (904) 465-2333",
+      "address": "Telemsan"
+    },
+    {
+      "id": 87,
+      "title": "full-stack-dev",
+      "type": "Full-time",
+      "company": "DANJA",
+      "email": "figueroawong@danja.com",
+      "phone": "+213 (989) 437-2719",
+      "address": "Alger"
+    },
+    {
+      "id": 88,
+      "title": "Web-dev",
+      "type": "Free-time",
+      "company": "ULTRASURE",
+      "email": "figueroawong@ultrasure.com",
+      "phone": "+213 (866) 487-3708",
+      "address": "Mostaganem"
+    },
+    {
+      "id": 89,
+      "title": "Architect",
+      "type": "Full-time",
+      "company": "STOCKPOST",
+      "email": "figueroawong@stockpost.com",
+      "phone": "+213 (890) 468-3184",
+      "address": "Setif"
+    },
+    {
+      "id": 90,
+      "title": "App-dev",
+      "type": "Full-time",
+      "company": "ZAGGLES",
+      "email": "figueroawong@zaggles.com",
+      "phone": "+213 (874) 418-3026",
+      "address": "Setif"
+    },
+    {
+      "id": 91,
+      "title": "backend-dev",
+      "type": "Freelancer",
+      "company": "FLEETMIX",
+      "email": "figueroawong@fleetmix.com",
+      "phone": "+213 (982) 519-2829",
+      "address": "Telemsan"
+    },
+    {
+      "id": 92,
+      "title": "Architect",
+      "type": "Remote",
+      "company": "TELEQUIET",
+      "email": "figueroawong@telequiet.com",
+      "phone": "+213 (870) 449-2403",
+      "address": "Mostaganem"
+    },
+    {
+      "id": 93,
+      "title": "Web-dev",
+      "type": "Freelancer",
+      "company": "ORONOKO",
+      "email": "figueroawong@oronoko.com",
+      "phone": "+213 (965) 521-3211",
+      "address": "Setif"
+    },
+    {
+      "id": 94,
+      "title": "Architect",
+      "type": "Full-time",
+      "company": "OCEANICA",
+      "email": "figueroawong@oceanica.com",
+      "phone": "+213 (870) 418-3691",
+      "address": "Oran"
+    },
+    {
+      "id": 95,
+      "title": "Architect",
+      "type": "Freelancer",
+      "company": "NORALEX",
+      "email": "figueroawong@noralex.com",
+      "phone": "+213 (897) 532-2351",
+      "address": "Alger"
+    },
+    {
+      "id": 96,
+      "title": "Web-dev",
+      "type": "Full-time",
+      "company": "FLUM",
+      "email": "figueroawong@flum.com",
+      "phone": "+213 (813) 424-3620",
+      "address": "Oran"
+    },
+    {
+      "id": 97,
+      "title": "Architect",
+      "type": "Full-time",
+      "company": "OPTIQUE",
+      "email": "figueroawong@optique.com",
+      "phone": "+213 (959) 413-2312",
+      "address": "Mostaganem"
+    },
+    {
+      "id": 98,
+      "title": "Web-dev",
+      "type": "Full-time",
+      "company": "IMKAN",
+      "email": "figueroawong@imkan.com",
+      "phone": "+213 (974) 449-2934",
+      "address": "Mostaganem"
+    },
+    {
+      "id": 99,
+      "title": "full-stack-dev",
+      "type": "Free-time",
+      "company": "GENESYNK",
+      "email": "figueroawong@genesynk.com",
+      "phone": "+213 (867) 432-2065",
+      "address": "Mostaganem"
+    }
+  ]
